@@ -1,6 +1,6 @@
 # Web to Text
 
-The __web to text__ widget allows your site visitors to text your Skipio account from within their web browser.
+The __web to text__ widget allows your site visitors to text your Skipio account from within a web browser.
 
 Here's an example integration.
 
