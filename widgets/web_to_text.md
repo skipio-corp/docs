@@ -18,7 +18,7 @@ Here's an example integration.
 </html>
 ```
 
-The format of the JavaScript URL matches this pattern.
+The format of the JavaScript URL matches the following pattern.
 
 ```
 https://app.skipio.com/scripts/web2txt/123456789
