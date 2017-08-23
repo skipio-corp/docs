@@ -6,7 +6,7 @@ The __web to text__ widget allows your site visitors to text your Skipio account
 
 ## Help
 
-If you need help integrating, please join us on Slack.
+If you need help integrating, please join us on [Slack](https://slack.com).
 
 - Signup at https://slack.skipio.com
 - Discussion at https://skipio-integrations.slack.com/messages/C6RQQ511D/
